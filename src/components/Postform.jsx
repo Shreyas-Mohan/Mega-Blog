@@ -66,7 +66,7 @@ export default function Postform({ post }) {
         }
       }
     } catch (error) {
-      console.log('Error in form submission:', error)
+      console.error('Error in form submission:', error)
     }
   }
 
