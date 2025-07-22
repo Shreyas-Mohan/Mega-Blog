@@ -2,7 +2,7 @@
 
 A modern, full-featured blog application built with React and Appwrite backend-as-a-service. This project demonstrates a complete blog platform with user authentication, post management, rich text editing, and image handling.
 
-![Blog Preview](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
+![Blog Preview](https://img.shields.io/badge/Status-Under%20Active%20Development-yellow)
 ![React](https://img.shields.io/badge/React-18+-blue)
 ![Appwrite](https://img.shields.io/badge/Appwrite-Backend-red)
 ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC)
